@@ -1,0 +1,3 @@
+/mnt/c/Users/omkar.shirdhone/Project/GenAI_SDCL/app/CMakeFiles/MyProject.dir
+/mnt/c/Users/omkar.shirdhone/Project/GenAI_SDCL/app/CMakeFiles/edit_cache.dir
+/mnt/c/Users/omkar.shirdhone/Project/GenAI_SDCL/app/CMakeFiles/rebuild_cache.dir
